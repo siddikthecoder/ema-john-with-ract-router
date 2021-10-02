@@ -1,0 +1,16 @@
+.cart{
+    padding: 10px;
+}
+.cart h2,h3{
+    text-align: center;
+}
+.cart p > span{
+    font-weight: 600;
+}
+.btn-cart-preview{
+    width: 100%;
+    background-color: goldenrod;
+    padding: 5px 0px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
